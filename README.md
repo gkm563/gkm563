@@ -1,4 +1,8 @@
 <h1 align="center">Hi, I'm Gautam Kumar Maurya (GKM)</h1>
+![GitHub followers](https://img.shields.io/github/followers/gkm563?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/gkm563?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/gkm563/gkm563?color=success)
+
 <h3 align="center">Passionate Learner | Python Developer | AI Explorer | Ethical Hacker | Tech Creator</h3>
 
 ---
