@@ -5,7 +5,7 @@
 
 ## About Me
 
--  First-Year B.Tech CSE @ United Institute of Technology (AKTU)
+-  2nd Year B.Tech CSE @ United Institute of Technology (AKTU)
 -  Learning DSA from **Apna College**
 -  Building Projects in Python, AI, Web Dev, and Cybersecurity
 -  Created a **Keylogger + Screenshot Logger** system with real-time dashboard
