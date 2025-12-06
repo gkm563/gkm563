@@ -109,7 +109,6 @@ Cybersecurity Researcher, OSINT Explorer, DSA Learner, Flask Developer, Django D
 Full-Stack Web Developer, Automation Developer, AKTU CSE Student, Tech Creator,  
 Prayagraj-based Data Science Engineer.
 
-(*These lines help Google rank your profile when someone searches your name.*)
 
 ---
 
