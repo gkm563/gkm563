@@ -1,82 +1,120 @@
-# 👋 Hi, I'm **Gautam Kumar Maurya** (GKM)
-
-A 2nd-year **B.Tech CSE (Data Science)** student at United Institute of Technology, Prayagraj, passionate about building **secure, scalable, and data-driven applications**.
-
-I work at the intersection of:
-
-- **Full-Stack Development**  
-- **Data Science & Machine Learning Basics**  
-- **Cybersecurity (Ethical Hacking + OSINT)**  
-
-I love combining development, data, and security to create applications that are both powerful and safe.
+<!-- Banner Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Gautam+Kumar+Maurya+(GKM);Data+Science+Student+%7C+Python+Developer;Full-Stack+Learner+%7C+Cybersecurity+Enthusiast;Always+Building+%26+Learning+New+Tech!" />
+</p>
 
 ---
 
-## 🔧 Technical Skills
-
-### **Frontend**
-- HTML, CSS, JavaScript  
-- React, Tailwind CSS  
-
-### **Backend**
-- Python, Flask, Django  
-- React Native  
-
-### **Database**
-- MongoDB, Firebase, SQL  
-
-### **Cybersecurity**
-- Ethical Hacking  
-- OSINT  
-- Social Engineering  
-- Network Security  
-
-### **Data Structures & Algorithms**
-- Trees, Recursion, Linked Lists  
-- Algorithmic Problem-Solving in **C, C++, Python**
+<h1 align="center">👨‍💻 Gautam Kumar Maurya (GKM)</h1>
+<h3 align="center">Data Science Student | Python Developer | Full-Stack Learner | Cybersecurity & OSINT Explorer</h3>
 
 ---
 
-## 📌 Experience
+## 🚀 About Me
 
-### **Ethical Hacking Intern @ CodeResite (2 Months)**  
-Worked on:
-- Penetration testing basics  
-- OSINT investigations  
-- Social engineering awareness  
-- Network security concepts  
+I'm **Gautam Kumar Maurya**, a 2nd-year **B.Tech CSE (Data Science)** student at United Institute of Technology, Prayagraj (AKTU).  
+I work in the intersection of **Python**, **Full-Stack Development**, **Cybersecurity**, and **AI Tools**.
 
-### **College Research Project**
-Created a **simulated Instagram phishing attack model** (for academic research only)  
-→ Studied **vulnerabilities, user behaviour, and security defenses**.
-
-### **Campus Leadership**
-- Campus Ambassador @ MyGov India  
-- Indigo Squad Member @ IIT Bombay  
-
-Improved leadership, communication, and event management.
+I enjoy creating **secure, data-driven, automation-based applications**, and solving real-world technical problems.
 
 ---
 
-## 🚀 What I'm Learning Now
-- Data Science + ML basics  
-- Secure application development  
-- Advanced DSA in C++ & Python  
+## 🧠 What I Do
+
+- Python backend development & automation  
+- AI/ML basics + small intelligent tools  
+- DSA in C++ / Python  
+- Web apps using React + Flask/Django  
+- Cybersecurity research (OSINT, network security)  
+- Bots, monitoring dashboards, automation scripts  
 
 ---
 
-## 🎯 Goals
-- Build secure AI-powered applications  
-- Get internships in **Data Science, Full-Stack Dev, or Cybersecurity**  
-- Contribute to open-source projects  
+## ⚡ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,django,cpp,react,js,html,css,tailwind,nodejs,mongodb,firebase,git,linux,vscode" />
+</p>
 
 ---
 
-## 📬 Connect With Me  
-- **LinkedIn:** (Add your link here)  
-- **Portfolio Website:** (Add when ready)  
-- **Email:** (Add your email)
+## 🔥 Featured Projects (SEO Optimized)
+
+### 🔹 **1. Real-Time Monitoring Dashboard (Python + Flask + React)**
+A research-based project capturing user interactions & visual logs — displayed on a secure admin dashboard.  
+✔ Flask API  
+✔ Real-time updates  
+✔ Secure backend  
 
 ---
 
-⭐ **If you like my work, consider starring my repositories or connecting on LinkedIn!**
+### 🔹 **2. YouTube Downloader Bot (Telegram)**
+Built using FFmpeg + custom backend.  
+✔ HD video options  
+✔ Fast + optimized  
+✔ Auto file cleanup  
+
+---
+
+### 🔹 **3. AI Quote & Joke Generator Website**
+Uses AI-based logic + speech output + smooth animations.  
+✔ Interactive  
+✔ Mobile responsive  
+✔ Fun & motivational  
+
+---
+
+### 🔹 **4. DSA Learning Journey (C++ + Python)**
+Solving DSA from basics to advanced.  
+➡️ *Repo:* https://github.com/gkm563/DSA
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gkm563&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkm563&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkm563&theme=tokyonight" height="180" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/gkm563"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:maurgk212104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://youtube.com/@GKM563"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://instagram.com/gkm3563"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gkm563&theme=tokyonight&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 🔍 SEO Keywords About Me (Highly Important for Google Indexing)
+
+**Gautam Kumar Maurya**, Python Developer, Data Science Student, AI Developer, Web Developer (React + Python),  
+Cybersecurity Researcher, OSINT Explorer, DSA Learner, Flask Developer, Django Developer,  
+Full-Stack Web Developer, Automation Developer, AKTU CSE Student, Tech Creator,  
+Prayagraj-based Data Science Engineer.
+
+(*These lines help Google rank your profile when someone searches your name.*)
+
+---
+
+## ⭐ Final Note  
+> “I’m not the best — I’m just consistent.”
+
+If you like my work, ⭐ star my repositories and follow me!
+
