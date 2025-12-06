@@ -1,64 +1,82 @@
-<h1 align="center">Hi, I'm Gautam Kumar Maurya (GKM) </h1>
-<h3 align="center">Passionate Learner | Python Developer | AI Explorer | Ethical Hacker | Tech Creator</h3>
+# 👋 Hi, I'm **Gautam Kumar Maurya** (GKM)
+
+A 2nd-year **B.Tech CSE (Data Science)** student at United Institute of Technology, Prayagraj, passionate about building **secure, scalable, and data-driven applications**.
+
+I work at the intersection of:
+
+- **Full-Stack Development**  
+- **Data Science & Machine Learning Basics**  
+- **Cybersecurity (Ethical Hacking + OSINT)**  
+
+I love combining development, data, and security to create applications that are both powerful and safe.
 
 ---
 
-## About Me
+## 🔧 Technical Skills
 
--  2nd Year B.Tech CSE @ United Institute of Technology (AKTU)
--  Learning DSA from **Apna College**
--  Building Projects in Python, AI, Web Dev, and Cybersecurity
--  Created a **Keylogger + Screenshot Logger** system with real-time dashboard
--  Building bots, automations, and interactive apps
+### **Frontend**
+- HTML, CSS, JavaScript  
+- React, Tailwind CSS  
 
----
+### **Backend**
+- Python, Flask, Django  
+- React Native  
 
-## Tech Stack
+### **Database**
+- MongoDB, Firebase, SQL  
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visualstudio)
+### **Cybersecurity**
+- Ethical Hacking  
+- OSINT  
+- Social Engineering  
+- Network Security  
 
----
-
-## Projects Highlight
-
-| Project | Description |
-|--------|-------------|
-| **Keylogger + Screenshot Logger** | Tracks keystrokes & screenshots with Flask + React dashboard |
-| **YouTube Downloader Bot** | Telegram bot with resolution selection, FFmpeg, and auto-deletion |
-| **AI Quote & Joke Website** | Motivational & funny content with speech and animations |
-| **DSA Practice** | DSA with C++, from scratch — [DSA Repo](https://github.com/gkm563/DSA) |
+### **Data Structures & Algorithms**
+- Trees, Recursion, Linked Lists  
+- Algorithmic Problem-Solving in **C, C++, Python**
 
 ---
 
-## GitHub Stats
+## 📌 Experience
 
-<img src="https://github-readme-stats.vercel.app/api?username=gkm563&show_icons=true&theme=radical" width="47%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkm563&layout=compact&theme=radical" width="47%" />
+### **Ethical Hacking Intern @ CodeResite (2 Months)**  
+Worked on:
+- Penetration testing basics  
+- OSINT investigations  
+- Social engineering awareness  
+- Network security concepts  
+
+### **College Research Project**
+Created a **simulated Instagram phishing attack model** (for academic research only)  
+→ Studied **vulnerabilities, user behaviour, and security defenses**.
+
+### **Campus Leadership**
+- Campus Ambassador @ MyGov India  
+- Indigo Squad Member @ IIT Bombay  
+
+Improved leadership, communication, and event management.
 
 ---
 
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/gkm563)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:maurgk212104@gmail.com)
-[![YouTube](https://img.shields.io/badge/Youtube-black?logo=youtube)](https://www.youtube.com/@GKM563)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/gkm3563)
+## 🚀 What I'm Learning Now
+- Data Science + ML basics  
+- Secure application development  
+- Advanced DSA in C++ & Python  
 
 ---
 
-> “I’m not the best — I’m just consistent.” 
+## 🎯 Goals
+- Build secure AI-powered applications  
+- Get internships in **Data Science, Full-Stack Dev, or Cybersecurity**  
+- Contribute to open-source projects  
 
 ---
 
-## GitHub Badges
+## 📬 Connect With Me  
+- **LinkedIn:** (Add your link here)  
+- **Portfolio Website:** (Add when ready)  
+- **Email:** (Add your email)
 
-![GitHub followers](https://img.shields.io/github/followers/gkm563?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/gkm563?style=social)
-![Repo Size](https://img.shields.io/github/repo-size/gkm563/gkm563)
+---
+
+⭐ **If you like my work, consider starring my repositories or connecting on LinkedIn!**
