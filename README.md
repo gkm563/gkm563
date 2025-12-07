@@ -102,7 +102,7 @@ Solving DSA from basics to advanced.
 
 ---
 
-## 🔍 SEO Keywords About Me (Highly Important for Google Indexing)
+## 🔍 About Me (in Short)
 
 **Gautam Kumar Maurya**, Python Developer, Data Science Student, AI Developer, Web Developer (React + Python),  
 Cybersecurity Researcher, OSINT Explorer, DSA Learner, Flask Developer, Django Developer,  
