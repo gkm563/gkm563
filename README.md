@@ -38,7 +38,7 @@ I enjoy creating **secure, data-driven, automation-based applications**, and sol
 
 ---
 
-## 🔥 Featured Projects (SEO Optimized)
+## 🔥 Featured Projects 
 
 ### 🔹 **1. Real-Time Monitoring Dashboard (Python + Flask + React)**
 A research-based project capturing user interactions & visual logs — displayed on a secure admin dashboard.  
