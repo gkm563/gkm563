@@ -1,101 +1,99 @@
-<!-- 🔥 Banner Animation -->
+<!-- 🔥 Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gautam+Kumar+Maurya+(GKM);Data+Science+Engineer+in+Progress;Full-Stack+Developer+%7C+Tech+Leader;Cybersecurity+%7C+AI+%7C+Automation;Building+Real+World+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Gautam+Kumar+Maurya+(GKM);Data+Science+Engineer+in+Progress;Full-Stack+Developer+%7C+Tech+Leader;Cybersecurity+%7C+AI+%7C+Automation;Building+Real+World+Impact+🚀" />
 </p>
 
 <!-- 👀 Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gkm563&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=gkm563&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 <h1 align="center">👨‍💻 Gautam Kumar Maurya (GKM)</h1>
-<h3 align="center">🚀 Data Science Engineer | Python Developer | Full-Stack Builder | Tech Community Leader</h3>
+<h3 align="center">🚀 Data Science Engineer | Full-Stack Developer | Cybersecurity Enthusiast | Tech Community Leader</h3>
 
 ---
 
 ## 🚀 About Me
 
-I’m a **B.Tech CSE (Data Science) student (2nd Year)** from **United Institute of Technology, Prayagraj (AKTU)**.
+I’m a **B.Tech CSE (Data Science) student (2024–2028)** at **United Institute of Technology, Prayagraj (AKTU)** with an SGPA of **8.5**.
 
-I work at the intersection of:
+I focus on building **real-world, secure, and scalable applications** by combining:
 
-- ⚡ **Data Science + AI**
-- 🌐 **Full-Stack Development**
-- 🔐 **Cybersecurity & OSINT**
-- 🤖 **Automation & Bots**
+- 📊 Data Science  
+- 🌐 Full-Stack Development  
+- 🔐 Cybersecurity (Ethical Hacking + OSINT)  
+- 🤖 Automation & AI  
 
-💡 I focus on building **real-world, scalable, and impactful tech solutions**, not just theory.
+💡 I believe in **learning by building + leading + sharing knowledge**.
 
 ---
 
 ## 🧠 Professional Summary
 
-- 👨‍💻 Strong in **Python, Backend Systems & Automation**
-- 🧩 Actively solving **DSA (C++ + Python)**
-- 🌍 Building **real-world projects (AI, Web, Security)**
-- 🎯 Focused on becoming a **Top Software/Data Engineer**
+- 👨‍💻 Strong in **Python, Backend & System Building**
+- 🌐 Skilled in **React + Full-Stack Web Development**
+- 🔐 Hands-on in **Cybersecurity (OSINT, Social Engineering, Network Security)**
+- 🧩 Solving **DSA (C, C++, Python)**
+- 🚀 Built and deployed **real projects used in events & communities**
 
 ---
 
-## 🏆 Leadership & Community
+## 🏆 Leadership & Experience
 
-- 🔹 Technical Head @ GFG, UDTech India, TechEra  
-- 🔹 GDG Volunteer  
-- 🔹 Organized multiple **tech events & hackathons**  
-- 🔹 Co-organized **Google Gemini Event (600+ attendees)**  
-- 🔹 TechEra Community – Technical Associate & Content Writer  
+- 🔹 **Technical Head** – GFG UIT & UDTech India  
+- 🔹 **Technical Associate & Content Writer** – TechEra (Delhi NCR)  
+- 🔹 **GDG Prayagraj Volunteer**  
+- 🔹 **Core Team Member** – GSA UIT (Google Campus Ambassador Program)  
+- 🔹 **Campus Ambassador** – MyGov India  
+- 🔹 **Hackathon Organizer & Website Developer** (BuildX India 2026)
 
-📌 Strong experience in **team leadership + execution + community building**
-
----
-
-## ⚡ What I Build
-
-- 🔧 Backend systems & APIs (Flask/Django)
-- 🤖 Automation tools & bots
-- 📊 Data-driven dashboards
-- 🌐 Full-stack web apps (React + Python)
-- 🔐 Cybersecurity tools & OSINT research
+📌 Built & managed **real production-level hackathon website**  
+📌 Experience in **team leadership, execution, and scaling events**
 
 ---
 
-## 🛠️ Tech Stack
+## 🏅 Achievements
+
+- 🥇 **1st Place – WebDie (ENIGMA XIII Tech Fest)**  
+- 🥇 **1st Place – GDG Quiz Event**  
+- 🏆 **5th Rank – AKTU University (1st Semester)**  
+- 🏆 Recognized at college stage (Salvete Advena 2025)  
+- 🏅 Honored by **Dainik Jagran & UP Board**  
+
+📈 Strong proof of **performance + consistency + growth** :contentReference[oaicite:0]{index=0}
+
+---
+
+## 🔥 Real-World Projects
+
+### 🔹 CampusClick – Event & Hackathon Platform
+- Students can explore events, upload photos, and interact  
+- Built for real campus usage  
+- Clean UI + deployed on Netlify  
+
+---
+
+### 🔹 PDFBAZI – All-in-One PDF Tool
+- Merge, split, compress, convert, watermark  
+- Runs fully in browser (no server → secure)  
+- Focus on **privacy + performance**  
+
+---
+
+### 🔹 BuildX Hackathon Website
+- Developed full website as **Technical Head**  
+- Used in **national-level hackathon**  
+- Real users + real traffic  
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,flask,django,react,nodejs,js,html,css,tailwind,mongodb,firebase,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,flask,django,react,nodejs,js,html,css,tailwind,mongodb,firebase,php,mysql,git,linux,vscode" />
 </p>
-
----
-
-## 🔥 Featured Projects
-
-### 🔹 Real-Time Monitoring Dashboard
-- Tech: Python, Flask, React  
-- Secure dashboard for tracking user interactions  
-- Real-time updates + admin panel  
-
----
-
-### 🔹 YouTube Downloader Bot (Telegram)
-- Built using FFmpeg + automation backend  
-- Fast downloads + HD quality  
-- Auto cleanup system  
-
----
-
-### 🔹 AI Quote & Joke Generator
-- AI-based logic + speech output  
-- Interactive UI + animations  
-- Fully responsive  
-
----
-
-### 🔹 DSA Journey Repository
-- Solving structured DSA problems  
-- Focus on logic building & optimization  
-👉 https://github.com/gkm563/DSA
 
 ---
 
@@ -107,7 +105,7 @@ I work at the intersection of:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkm563&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkm563&theme=tokyonight"/>
 </p>
 
 ---
@@ -120,11 +118,21 @@ I work at the intersection of:
 
 ---
 
-## 🏆 Achievements
+## 🏆 Certifications
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gkm563&theme=tokyonight&margin-w=10&margin-h=10"/>
-</p>
+- Open Source Connect Global 2026  
+- CS50x (Harvard)  
+- Multiple tech certifications (30+)  
+
+---
+
+## 🌍 Community & Networking
+
+- Organized & participated in **multiple hackathons & GDG events**
+- Attended **IIIT Allahabad, MNNIT, national-level tech events**
+- Worked with **developers across colleges & communities**
+
+📌 Strong exposure to **real-world engineering environment**
 
 ---
 
@@ -142,13 +150,13 @@ I work at the intersection of:
 ## 🔍 Short Identity
 
 **Gautam Kumar Maurya (GKM)**  
-Data Science Engineer | Python Developer | Full-Stack Developer  
-Cybersecurity Researcher | OSINT Explorer | Tech Leader  
+Data Science Engineer | Full-Stack Developer | Cybersecurity Researcher  
+Tech Leader | Hackathon Builder | Community Contributor  
 
 ---
 
 ## ⚡ Final Note
 
-> “Consistency beats talent when talent doesn’t work hard.”
+> “Consistency + Real Work + Exposure = Growth”
 
-⭐ If you find my work valuable, consider **starring repositories** and following!
+⭐ If you like my work, consider starring repos and following!
