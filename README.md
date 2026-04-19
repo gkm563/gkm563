@@ -1,72 +1,101 @@
-<!-- Banner Animation -->
+<!-- 🔥 Banner Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Gautam+Kumar+Maurya+(GKM);Data+Science+Student+%7C+Python+Developer;Full-Stack+Learner+%7C+Cybersecurity+Enthusiast;Always+Building+%26+Learning+New+Tech!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gautam+Kumar+Maurya+(GKM);Data+Science+Engineer+in+Progress;Full-Stack+Developer+%7C+Tech+Leader;Cybersecurity+%7C+AI+%7C+Automation;Building+Real+World+Projects+🚀" />
+</p>
+
+<!-- 👀 Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gkm563&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 <h1 align="center">👨‍💻 Gautam Kumar Maurya (GKM)</h1>
-<h3 align="center">Data Science Student | Python Developer | Full-Stack Learner | Cybersecurity & OSINT Explorer</h3>
+<h3 align="center">🚀 Data Science Engineer | Python Developer | Full-Stack Builder | Tech Community Leader</h3>
 
 ---
 
 ## 🚀 About Me
 
-I'm **Gautam Kumar Maurya**, a 2nd-year **B.Tech CSE (Data Science)** student at United Institute of Technology, Prayagraj (AKTU).  
-I work in the intersection of **Python**, **Full-Stack Development**, **Cybersecurity**, and **AI Tools**.
+I’m a **B.Tech CSE (Data Science) student (2nd Year)** from **United Institute of Technology, Prayagraj (AKTU)**.
 
-I enjoy creating **secure, data-driven, automation-based applications**, and solving real-world technical problems.
+I work at the intersection of:
 
----
+- ⚡ **Data Science + AI**
+- 🌐 **Full-Stack Development**
+- 🔐 **Cybersecurity & OSINT**
+- 🤖 **Automation & Bots**
 
-## 🧠 What I Do
-
-- Python backend development & automation  
-- AI/ML basics + small intelligent tools  
-- DSA in C++ / Python  
-- Web apps using React + Flask/Django  
-- Cybersecurity research (OSINT, network security)  
-- Bots, monitoring dashboards, automation scripts  
+💡 I focus on building **real-world, scalable, and impactful tech solutions**, not just theory.
 
 ---
 
-## ⚡ Tech Stack & Tools
+## 🧠 Professional Summary
+
+- 👨‍💻 Strong in **Python, Backend Systems & Automation**
+- 🧩 Actively solving **DSA (C++ + Python)**
+- 🌍 Building **real-world projects (AI, Web, Security)**
+- 🎯 Focused on becoming a **Top Software/Data Engineer**
+
+---
+
+## 🏆 Leadership & Community
+
+- 🔹 Technical Head @ GFG, UDTech India, TechEra  
+- 🔹 GDG Volunteer  
+- 🔹 Organized multiple **tech events & hackathons**  
+- 🔹 Co-organized **Google Gemini Event (600+ attendees)**  
+- 🔹 TechEra Community – Technical Associate & Content Writer  
+
+📌 Strong experience in **team leadership + execution + community building**
+
+---
+
+## ⚡ What I Build
+
+- 🔧 Backend systems & APIs (Flask/Django)
+- 🤖 Automation tools & bots
+- 📊 Data-driven dashboards
+- 🌐 Full-stack web apps (React + Python)
+- 🔐 Cybersecurity tools & OSINT research
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,cpp,react,js,html,css,tailwind,nodejs,mongodb,firebase,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,flask,django,react,nodejs,js,html,css,tailwind,mongodb,firebase,git,linux,vscode" />
 </p>
 
 ---
 
-## 🔥 Featured Projects 
+## 🔥 Featured Projects
 
-### 🔹 **1. Real-Time Monitoring Dashboard (Python + Flask + React)**
-A research-based project capturing user interactions & visual logs — displayed on a secure admin dashboard.  
-✔ Flask API  
-✔ Real-time updates  
-✔ Secure backend  
-
----
-
-### 🔹 **2. YouTube Downloader Bot (Telegram)**
-Built using FFmpeg + custom backend.  
-✔ HD video options  
-✔ Fast + optimized  
-✔ Auto file cleanup  
+### 🔹 Real-Time Monitoring Dashboard
+- Tech: Python, Flask, React  
+- Secure dashboard for tracking user interactions  
+- Real-time updates + admin panel  
 
 ---
 
-### 🔹 **3. AI Quote & Joke Generator Website**
-Uses AI-based logic + speech output + smooth animations.  
-✔ Interactive  
-✔ Mobile responsive  
-✔ Fun & motivational  
+### 🔹 YouTube Downloader Bot (Telegram)
+- Built using FFmpeg + automation backend  
+- Fast downloads + HD quality  
+- Auto cleanup system  
 
 ---
 
-### 🔹 **4. DSA Learning Journey (C++ + Python)**
-Solving DSA from basics to advanced.  
-➡️ *Repo:* https://github.com/gkm563/DSA
+### 🔹 AI Quote & Joke Generator
+- AI-based logic + speech output  
+- Interactive UI + animations  
+- Fully responsive  
+
+---
+
+### 🔹 DSA Journey Repository
+- Solving structured DSA problems  
+- Focus on logic building & optimization  
+👉 https://github.com/gkm563/DSA
 
 ---
 
@@ -78,7 +107,23 @@ Solving DSA from basics to advanced.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkm563&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkm563&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkm563&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gkm563&theme=tokyonight&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -86,34 +131,24 @@ Solving DSA from basics to advanced.
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/gkm563"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:maurgk212104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://youtube.com/@GKM563"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://instagram.com/gkm3563"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/gkm563"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:maurgk212104@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://youtube.com/@GKM563"><img src="https://img.shields.io/badge/YouTube-Tech%20Content-red?style=for-the-badge&logo=youtube"/></a>
+  <a href="https://instagram.com/gkm3563"><img src="https://img.shields.io/badge/Instagram-Updates-pink?style=for-the-badge&logo=instagram"/></a>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🔍 Short Identity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gkm563&theme=tokyonight&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-## 🔍 About Me (in Short)
-
-**Gautam Kumar Maurya**, Python Developer, Data Science Student, AI Developer, Web Developer (React + Python),  
-Cybersecurity Researcher, OSINT Explorer, DSA Learner, Flask Developer, Django Developer,  
-Full-Stack Web Developer, Automation Developer, AKTU CSE Student, Tech Creator,  
-Prayagraj-based Data Science Engineer.
-
+**Gautam Kumar Maurya (GKM)**  
+Data Science Engineer | Python Developer | Full-Stack Developer  
+Cybersecurity Researcher | OSINT Explorer | Tech Leader  
 
 ---
 
-## ⭐ Final Note  
-> “I’m not the best — I’m just consistent.”
+## ⚡ Final Note
 
-If you like my work, ⭐ star my repositories and follow me!
+> “Consistency beats talent when talent doesn’t work hard.”
 
+⭐ If you find my work valuable, consider **starring repositories** and following!
