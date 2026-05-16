@@ -187,18 +187,10 @@ My work sits at the intersection of:
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gkm563&theme=tokyonight" 
     width="49%"
   />
-  
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gkm563&theme=tokyonight" 
     width="49%"
   />
-</p>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gkm563&theme=tokyonight" 
-  width="45%"
-/>
-
 </p>
 
 ---
@@ -213,7 +205,6 @@ My work sits at the intersection of:
 </p>
 
 ---
-
 ## 🏆 Certifications
 
 * Open Source Connect Global 2026
