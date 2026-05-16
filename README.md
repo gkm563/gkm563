@@ -173,12 +173,12 @@ My work sits at the intersection of:
 * Database design and optimization
 * OpenCV and computer vision experiments
 
----# 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=gkm563&theme=tokyonight&hide_border=true&border_radius=12" 
-    width="70%"
+    width="80%"
   />
 </p>
 
@@ -190,15 +190,17 @@ My work sits at the intersection of:
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gkm563&theme=tokyonight" 
-    width="47%"
-  />
 
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gkm563&theme=tokyonight" 
-    width="47%"
-  />
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gkm563&theme=tokyonight" 
+  width="45%"
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gkm563&theme=tokyonight" 
+  width="45%"
+/>
+
 </p>
 
 ---
