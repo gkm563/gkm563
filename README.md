@@ -151,39 +151,96 @@ My work sits at the intersection of:
 * Managed as part of technical leadership
 
 ---
-# 🧰 Tech Stack & Tools
+# 🚀 Tech Arsenal
 
-<p align="center">
+<div align="center">
 
-<img 
-  src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,react,nodejs,nextjs,html,css,tailwind,bootstrap&perline=7" 
-/>
+<table>
 
-</p>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>Python
+</td>
 
-<p align="center">
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>C++
+</td>
 
-<img 
-  src="https://skillicons.dev/icons?i=php,mysql,postgresql,mongodb,firebase,supabase,django,flask&perline=6" 
-/>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br>C
+</td>
 
-</p>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br>Java
+</td>
 
-<p align="center">
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>JavaScript
+</td>
 
-<img 
-  src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,bash,postman,vscode&perline=6" 
-/>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=typescript" width="55"/><br>TypeScript
+</td>
 
-</p>
+</tr>
 
-<p align="center">
+</table>
 
-<img 
-  src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3" 
-/>
+</div>
 
-</p>
+---
+
+<div align="center">
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&perline=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,django,flask,mysql,postgresql,mongodb,firebase,supabase&perline=5" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛠️ DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,bash,postman,vscode&perline=4" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤖 AI / ML / Computer Vision
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Agents-Exploring-0A66C2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/CI%2FCD-Learning-orange?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Cybersecurity-OSINT%20%26%20Networking-red?style=for-the-badge" />
+
+</div>
 
 ---
 
