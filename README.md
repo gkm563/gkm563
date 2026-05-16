@@ -274,16 +274,32 @@ Basically, my journey is publicly documented there day by day.
 
 ---
 
+# 🌐 Let's Connect & Track My Journey
+
 <p align="center">
 
 <a href="https://linkedin.com/in/gkm563" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20TRACK%20MY%20TECH%20JOURNEY%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀%20TRACK%20MY%20REAL%20TECH%20JOURNEY-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br><br>
+</p>
+
+<p align="center">
 
 <a href="https://linkedin.com/in/gkm563" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Gautam%20Kumar%20Maurya%20(GKM)-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Wikimedia-blue?style=flat-square&logo=wikipedia&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/gkm563" target="_blank">
+  <img src="https://img.shields.io/badge/AI%20%26%20Automation-Building-success?style=flat-square"/>
+</a>
+
+<a href="https://linkedin.com/in/gkm563" target="_blank">
+  <img src="https://img.shields.io/badge/Hackathons-Organizer%20%26%20Leader-orange?style=flat-square"/>
+</a>
+
+<a href="https://linkedin.com/in/gkm563" target="_blank">
+  <img src="https://img.shields.io/badge/Startups-Builder-red?style=flat-square"/>
 </a>
 
 </p>
@@ -291,5 +307,39 @@ Basically, my journey is publicly documented there day by day.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=130&section=footer" />
+
+💻 Building • Learning • Leading • Contributing • Growing
+
+</p>
+
+<p align="center">
+
+I regularly share:
+<br>
+
+🚀 Projects & Startups  
+🌍 Open Source Contributions  
+🏆 Hackathons & Achievements  
+👨‍💼 Leadership Experiences  
+⚡ Real Engineering Work  
+🤖 AI & Automation  
+🔐 Cybersecurity Learning  
+📈 Growth, Failures & Lessons  
+
+</p>
+
+---
+
+<p align="center">
+
+<a href="https://linkedin.com/in/gkm563" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Gautam%20Kumar%20Maurya%20(GKM)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=130&section=footer"/>
 </p>
