@@ -184,17 +184,15 @@ My work sits at the intersection of:
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkm563&theme=tokyonight" 
-    width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gkm563&theme=tokyonight" 
+    width="49%"
+  />
+  
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gkm563&theme=tokyonight" 
+    width="49%"
   />
 </p>
-
-<p align="center">
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gkm563&theme=tokyonight" 
-  width="45%"
-/>
 
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gkm563&theme=tokyonight" 
