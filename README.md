@@ -110,7 +110,7 @@ My work sits at the intersection of:
 
 ### 🔹 GDG Prayagraj Volunteer
 
-* Attended and contributed in **15+ GDG and developer events**
+* Attended **15+ GDG and developer events**
 * Worked closely with developer communities and networking activities
 
 ### 🔹 Core Team Member – GSA UIT (Google Campus Ambassador Program)
