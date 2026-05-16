@@ -119,7 +119,7 @@ My work sits at the intersection of:
 * Managed activities for 1st, 2nd, and 3rd year students
 * Contributed to coordination, execution, and technical support
 
-### 🔹 Campus Ambassador – MyGov India
+### 🔹 Campus Ambassador – MyGov India,IIT DELHI
 
 * Represented student participation and awareness initiatives
 
