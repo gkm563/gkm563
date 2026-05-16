@@ -179,16 +179,19 @@ My work sits at the intersection of:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gkm563&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=gkm563&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkm563&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&cache_seconds=1800"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gkm563&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gkm563&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gkm563&theme=tokyonight" />
 
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gkm563&theme=tokyonight&hide_border=true&border_radius=12"/>
-</p>
-
 ---
 
 # 📈 Contribution Graph
