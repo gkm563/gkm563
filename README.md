@@ -231,25 +231,47 @@ AI Explorer | DSA Learner | Tech Builder | Community Contributor
 
 ---
 
-## 👀 If You're Reading This
+---
+
+# 👀 If You're Reading This
 
 If you're reading this, you probably already know a lot about me from this profile.
 
-But if you really want to understand my journey deeply — from learning, building, leading, organizing events, contributing to open source, winning, failing, improving, networking, and growing step by step — then check out my LinkedIn.
+But if you really want to understand my journey deeply — from learning, building, leading, organizing events, contributing to open source, winning, failing, improving, networking, and growing step by step —
+
+then you should definitely check out my LinkedIn.
 
 I regularly document almost everything there:
 
-* technical learning
-* projects
-* hackathons
-* leadership work
-* events
-* open-source journey
-* achievements
-* failures and lessons
-* real engineering experiences
+- 💻 Technical Learning
+- 🚀 Projects & Startups
+- 🏆 Hackathons & Achievements
+- 🌍 Open Source Journey
+- 👨‍💼 Leadership Experiences
+- 🎤 Events & Community Work
+- 📈 Growth & Improvements
+- ❌ Failures & Lessons
+- ⚡ Real Engineering Experiences
 
 Basically, my journey is publicly documented there day by day.
+
+---
+
+<p align="center">
+
+<a href="https://linkedin.com/in/gkm563" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20TRACK%20MY%20TECH%20JOURNEY%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/gkm563" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Gautam%20Kumar%20Maurya%20(GKM)-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=130&section=footer" />
