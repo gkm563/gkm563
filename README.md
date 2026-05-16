@@ -151,19 +151,51 @@ My work sits at the intersection of:
 * Managed as part of technical leadership
 
 ---
-
-## 🧰 Tech Stack
+# 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,html,css,tailwind,php,mysql,postgresql,mongodb,firebase,git,github,gitlab,linux,vscode" />
+
+<img 
+  src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,react,nodejs,nextjs,html,css,tailwind,bootstrap&perline=7" 
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,ai,docker,nginx" />
+
+<img 
+  src="https://skillicons.dev/icons?i=php,mysql,postgresql,mongodb,firebase,supabase,django,flask&perline=6" 
+/>
+
+</p>
+
+<p align="center">
+
+<img 
+  src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,bash,postman,vscode&perline=6" 
+/>
+
+</p>
+
+<p align="center">
+
+<img 
+  src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3" 
+/>
+
 </p>
 
 ---
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20Agents-Exploring-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CI%2FCD-Learning-orange?style=for-the-badge" />
+
+</p>
+
+---
 ## 🤖 AI / Automation / Backend Interests
 
 * AI and AI agent workflows
